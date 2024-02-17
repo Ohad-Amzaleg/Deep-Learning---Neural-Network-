@@ -1,4 +1,4 @@
-# Neural Network Project README
+# Neural Network Project
 
 Welcome to our Neural Network project! This project is implemented from scratch in Python, with a focus on understanding the fundamentals of neural networks. In this README, we'll provide an overview of the project structure, functionality, and how to use it.
 
